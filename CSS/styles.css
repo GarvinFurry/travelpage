@@ -24,16 +24,15 @@
     margin-bottom: 50px;
 }
 .btn4{
-    font-weight: bold;
-    color: red;
-    background-color: green;
+    width: 60%;
+    margin-left: 50px;
     border: none;
-    width: 10em;
-    height: 5ex;
-    cursor: pointer;
+    height: 25px;
+    color: red;
+    background: none;
+    font-size: 16px;
+    font-weight: bold;
     border-radius: 2px;
-    padding-bottom: 1px;
-    margin-bottom: 50px;
 }
 .btn5
 {
@@ -78,14 +77,18 @@
     padding-left: 50px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 .tr .gu{
     margin-top: 10px;
     margin-bottom: 10px;
+    font-weight: bold;
+    font-size: large;
 }
 .TWO{
-    padding: 80px;
-    margin: 80px;
+    padding: 120px;
+    margin: 50px;
+    top: 15px;
     
 }
 .travel{
@@ -97,14 +100,19 @@
 }
 .most{
     text-align: center;
+    padding-top: 25px;
 }
 .house{
     display: flex;
     justify-content: space-between;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-bottom: 35px;
 }
 .fa-brands{
     color: green;
     size: 50px;
+    font-size: 150%;
 }
 .gu{
     color: green;
@@ -112,16 +120,22 @@
 .tr{
     color: orangered;
 }
-.what{
+.WHAT{
     background-color: green;
+    padding-top: 10px;
 }
-.our{
+.whatt{
     color: black;
     text-align: center;
+    margin: 5%;
+    padding-top: 5px;
+    padding-bottom: 35px;
+
 }
 .lorem{
     color: white;
     text-align: center;
+    padding-bottom: 20px;
 }
 .pnd{
     color: black;
